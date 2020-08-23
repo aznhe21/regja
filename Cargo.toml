@@ -1,0 +1,8 @@
+[package]
+name = "regja"
+version = "0.1.0"
+authors = ["aznhe21 <aznhe21.mc@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rayon = "1.3"
